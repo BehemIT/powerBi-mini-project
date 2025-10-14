@@ -27,6 +27,6 @@ Data for the Karkonosze District are presented only for the period 2021–2025, 
 
    The population of women aged 45–74 is increasing across Poland. This trend is also observed on a smaller scale (in the Lower Silesia voivodeship and the Karkonosze District). The number of women eligible for screening increases along with the overall population size; however, the percentage of women qualified for the examination decreases in the last year, which may be due to preventive screenings conducted in previous years.
 
-![pic](mammography_preventive_program.jpg)
+![pic](mammography_preventive_program_.jpg)
 
  
